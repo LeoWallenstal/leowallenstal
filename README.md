@@ -33,5 +33,5 @@ I'm **Leo Wallenstål**, a System Science student at Örebro University with an 
 ### 📫  Connect With Me
 
 <a href="https://leowallenstal.com"><img alt="Website" src="https://img.shields.io/badge/Website-leowallenstal.com-05122A?style=flat&logo=googlechrome&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/leo-wallenstal-22a7a0355"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/leo-wallenstål-22a7a0355"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:leo.wallenstal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
